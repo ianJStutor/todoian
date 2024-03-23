@@ -11,7 +11,3 @@ A todo app. Because everyone builds one eventually.
 * Tailwind
 * Prisma
 * MongoDB
-
-## Author
-
-> [Ian Marshall](https://ianjstutor.github.io/ian-marshall/)
